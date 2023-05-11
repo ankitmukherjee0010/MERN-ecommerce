@@ -4,24 +4,24 @@ The backend is powered by Node and Express, with a MongoDB database for efficien
 With this app, users can browse products, add items to their cart, and securely checkout with just a few clicks. The admin panel allows for easy product management and order tracking.
 
 # Usage
-cd backend
+cd backend  
 Add a .env file and add your MONGO_URI
 
 # Install the dependencies
 # Backend dependencies
-cd backend
+cd backend  
 npm install
 # Run Server
 npm start
 
 # Frontend dependencies
-cd frontend
+cd frontend  
 npm install
 # Run Server
 npm run server
 
 # Admin dependencies
-cd admin
+cd admin  
 npm install
 # Run Server
 npm start
